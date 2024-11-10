@@ -2,7 +2,6 @@
 
 <h3> Steps to install server and client </h3>
 
-<p>
 in server,
    1. add 'srv0250.c' file and create 'log_serv0250.txt' in same directory in the server.
    2. Create a folder directory called 'server_files' in the server to store server media.
@@ -22,4 +21,4 @@ in client,
    3. execute command "gcc -o client cli0250.c".
    4. then execute "./client <Server IP address> 6025" (replace <Server IP address> with ip address of server)
    5. Now, client is online. To download files from serve, follow the instruction in client terminal.
-</p>
+
