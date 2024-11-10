@@ -1,0 +1,200 @@
+[Mon Sep 23 04:27:23 2024] - client: 127.0.0.1:57230, file:(null), 
+[Mon Sep 23 04:30:50 2024] - client: 127.0.0.1:60796, file:(null), 
+[Mon Sep 23 04:32:37 2024] - client: 127.0.0.1:35564, file:(null), 
+[Mon Sep 23 04:41:56 2024] - client: 127.0.0.1:44794, file:(null), 
+[Mon Sep 23 04:50:48 2024] - client: 127.0.0.1:54064, file:(null), 
+[Mon Sep 23 04:53:13 2024] - client: 127.0.0.1:47620, file:(null), 
+[Mon Sep 23 04:54:03 2024] - client: 127.0.0.1:43658, file:(null), 
+[Mon Sep 23 12:13:44 2024] - client: 127.0.0.1:56618, file:(null), 
+[Mon Sep 23 12:15:43 2024] - client: 127.0.0.1:34206, file:(null), 
+[Mon Sep 23 12:43:10 2024] - client: 127.0.0.1:54204, file:(null), 
+[Mon Sep 23 12:43:56 2024] - client: 127.0.0.1:37432, file:(null), 
+[Mon Sep 23 14:12:22 2024] - client: 127.0.0.1:42964, file:(null), 
+[Mon Sep 23 14:21:08 2024] - client: 127.0.0.1:53356, file:(null), 
+[Mon Sep 23 14:25:11 2024] - client: 127.0.0.1:54480, file:(null), 
+[Mon Sep 23 15:17:26 2024] - client: 127.0.0.1:59926, file:files10}.bin, 
+[Mon Sep 23 15:44:48 2024] - client: 127.0.0.1:38020, file:files10}.bin, 
+[Mon Sep 23 15:45:43 2024] - client: 127.0.0.1:37366, file:files{1.bin, 
+[Mon Sep 23 15:46:19 2024] - client: 127.0.0.1:41524, file:files:.bin, 
+[Mon Sep 23 21:02:45 2024] - client: 127.0.0.1:58548, file:files10}.bin, 
+[Mon Sep 23 21:03:31 2024] - client: 127.0.0.1:42476, file:files:.bin, 
+[Mon Sep 23 21:05:40 2024] - client: 127.0.0.1:38244, file:files:.bin, 
+[Mon Sep 23 21:05:46 2024] - client: 127.0.0.1:42176, file:files10}.bin, 
+[Mon Sep 23 21:06:50 2024] - client: 127.0.0.1:37894, file:files{1.bin, 
+[Mon Sep 23 21:07:04 2024] - client: 127.0.0.1:60026, file:No file transferred, 
+[Mon Sep 23 21:07:16 2024] - client: 127.0.0.1:45426, file:files{1.bin, 
+[Mon Sep 23 21:07:56 2024] - client: 127.0.0.1:52318, file:files10}.bin, 
+[Mon Sep 23 21:08:15 2024] - client: 127.0.0.1:33798, file:files:.bin, 
+[Mon Sep 23 21:08:22 2024] - client: 127.0.0.1:33814, file:files{1.bin, 
+[Mon Sep 23 21:08:32 2024] - client: 127.0.0.1:46520, file:files10}.bin, 
+[Mon Sep 23 21:10:40 2024] - client: 127.0.0.1:46302, file:Practical2.zip, 
+[Mon Sep 23 21:44:21 2024] - client: 127.0.0.1:35138, file:Practical2.zip, 
+[Mon Sep 23 21:45:23 2024] - client: 127.0.0.1:39446, file:Practical2.zip, 
+[Mon Sep 23 21:46:14 2024] - client: 127.0.0.1:40994, file:Practical2.zip, 
+[Mon Sep 23 21:46:37 2024] - client: 127.0.0.1:50330, file:Practical2.zip, 
+[Mon Sep 23 21:46:56 2024] - client: 127.0.0.1:56336, file:Practical2.zip, 
+[Mon Sep 23 21:51:04 2024] - client: 127.0.0.1:50050, file:files10}.bin, 
+[Mon Sep 23 21:51:46 2024] - client: 127.0.0.1:38068, file:files:.bin, 
+[Mon Sep 23 21:52:18 2024] - client: 127.0.0.1:46528, file:files:.bin, 
+[Mon Sep 23 22:30:26 2024] - client: 127.0.0.1:59122, file:Practical2.zip, 
+[Mon Sep 23 22:30:48 2024] - client: 127.0.0.1:44178, file:Practical2.zip, 
+[Mon Sep 23 22:31:26 2024] - client: 127.0.0.1:35692, file:Practical2.zip, 
+[Mon Sep 23 22:31:55 2024] - client: 127.0.0.1:59000, file:files{1.bin, 
+[Mon Sep 23 22:36:16 2024] - client: 127.0.0.1:34788, file:files10}.bin, 
+[Tue Sep 24 02:21:10 2024] - client: 127.0.0.1:40542, file:files10}.bin, 
+[Tue Sep 24 02:22:16 2024] - client: 127.0.0.1:40448, file:Practical2.zip, 
+[Tue Sep 24 02:23:28 2024] - client: 127.0.0.1:45386, file:files{1.bin, 
+[Tue Sep 24 02:46:32 2024] - client: 127.0.0.1:56052, file:No file transferred, 
+[Tue Sep 24 03:13:17 2024] - client: 127.0.0.1:53206, file:files:.bin, 
+[Tue Sep 24 03:18:36 2024] - client: 127.0.0.1:38886, file:Practical2.zip, 
+[Tue Sep 24 03:18:58 2024] - client: 127.0.0.1:44984, file:Practical2.zip, 
+[Tue Sep 24 03:25:44 2024] - client: 127.0.0.1:55110, file:Practical2.zip, 
+[Tue Sep 24 03:25:52 2024] - client: 127.0.0.1:55118, file:files:.bin, 
+[Tue Sep 24 03:25:58 2024] - client: 127.0.0.1:41118, file:Practical2.zip, 
+[Tue Sep 24 03:30:19 2024] - client: 127.0.0.1:39740, file:Practical2.zip, 
+[Tue Sep 24 03:50:08 2024] - client: 127.0.0.1:48868, file:Practical2.zip, 
+[Tue Sep 24 03:50:25 2024] - client: 127.0.0.1:43260, file:files10}.bin, 
+[Tue Sep 24 03:50:59 2024] - client: 127.0.0.1:44244, file:Practical2.zip, 
+[Tue Sep 24 03:51:03 2024] - client: 127.0.0.1:37136, file:Practical2.zip, 
+[Tue Sep 24 04:14:47 2024] - client: 127.0.0.1:43194, file:Practical2.zip, 
+[Tue Sep 24 04:15:11 2024] - client: 127.0.0.1:34382, file:files:.bin, 
+[Tue Sep 24 04:15:22 2024] - client: 127.0.0.1:41858, file:Practical2.zip, 
+[Tue Sep 24 04:15:31 2024] - client: 127.0.0.1:49162, file:Practical2.zip, 
+[Tue Sep 24 04:15:39 2024] - client: 127.0.0.1:46922, file:files{1.bin, 
+[Tue Sep 24 04:15:44 2024] - client: 127.0.0.1:58146, file:files10}.bin, 
+[Tue Sep 24 04:16:05 2024] - client: 127.0.0.1:56278, file:files:.bin, 
+[Tue Sep 24 04:17:10 2024] - client: 127.0.0.1:39806, file:wallhaven-2yvyz9.png, 
+[Tue Sep 24 04:17:46 2024] - client: 127.0.0.1:46396, file:wallhaven-2yvyz9.png, 
+[Thu Sep 26 09:36:44 2024] - client: 127.0.0.1:41518, file:wallhaven-2yvyz9.png, 
+[Thu Sep 26 09:38:47 2024] - client: 127.0.0.1:46760, file:wallhaven-2yvyz9.png, 
+[Thu Sep 26 09:39:06 2024] - client: 127.0.0.1:41654, file:Practical2.zip, 
+[Thu Sep 26 09:40:49 2024] - client: 127.0.0.1:49032, file:Practical2.zip, 
+[Thu Sep 26 09:40:57 2024] - client: 127.0.0.1:60602, file:files10}.bin, 
+[Thu Sep 26 09:41:00 2024] - client: 127.0.0.1:47432, file:Practical2.zip, 
+[Thu Sep 26 09:58:48 2024] - client: 127.0.0.1:55822, file:Practical2.zip, 
+[Thu Sep 26 09:58:52 2024] - client: 127.0.0.1:55836, file:files10}.bin, 
+[Thu Sep 26 09:58:57 2024] - client: 127.0.0.1:37562, file:Practical2.zip, 
+[Thu Sep 26 09:59:12 2024] - client: 127.0.0.1:35088, file:wallhaven-2yvyz9.png, 
+[Sun Sep 29 13:03:13 2024] - client: 127.0.0.1:53360, file:wallhaven-2yvyz9.png, 
+[Sun Sep 29 13:03:53 2024] - client: 127.0.0.1:52166, file:files{1.bin, 
+[Mon Sep 30 01:49:38 2024] - client: 127.0.0.1:43414, file:wallhaven-2yvyz9.png, 
+[Mon Sep 30 02:10:18 2024] - client: 127.0.0.1:42908, file:Practical2.zip, 
+[Mon Sep 30 02:10:27 2024] - client: 127.0.0.1:38884, file:Practical2.zip, 
+[Mon Sep 30 02:10:42 2024] - client: 127.0.0.1:42820, file:No file transferred, 
+[Mon Sep 30 18:45:56 2024] - client: 127.0.0.1:53900, file:file_1.bin, 
+[Mon Sep 30 18:46:38 2024] - client: 127.0.0.1:47544, file:Practical2.zip, 
+[Wed Oct  9 10:51:46 2024] - client: 127.0.0.1:41090, file:Practical2.zip, 
+[Wed Oct  9 10:52:48 2024] - client: 127.0.0.1:44134, file:Practical2.zip, 
+[Wed Oct  9 10:52:50 2024] - client: 127.0.0.1:44138, file:Practical2.zip, 
+[Wed Oct  9 10:52:53 2024] - client: 127.0.0.1:44146, file:Practical2.zip, 
+[Wed Oct  9 10:52:56 2024] - client: 127.0.0.1:44152, file:Practical2.zip, 
+[Wed Oct  9 10:53:07 2024] - client: 127.0.0.1:50698, file:Practical2.zip, 
+[Wed Oct  9 10:53:13 2024] - client: 127.0.0.1:32968, file:Practical2.zip, 
+[Wed Oct  9 10:53:54 2024] - client: 127.0.0.1:47356, file:file_1.bin, 
+[Wed Oct  9 13:07:41 2024] - client: 127.0.0.1:44568, file:Practical2.zip, 
+[Wed Oct  9 13:07:44 2024] - client: 127.0.0.1:44572, file:Practical2.zip, 
+[Wed Oct  9 13:07:47 2024] - client: 127.0.0.1:44574, file:Practical2.zip, 
+[Wed Oct  9 13:07:49 2024] - client: 127.0.0.1:51304, file:Practical2.zip, 
+[Wed Oct  9 13:07:52 2024] - client: 127.0.0.1:51318, file:Practical2.zip, 
+[Wed Oct  9 13:15:29 2024] - client: 127.0.0.1:48138, file:Practical2.zip, 
+[Wed Oct  9 13:15:31 2024] - client: 127.0.0.1:40816, file:file_3.bin, 
+[Wed Oct  9 13:16:11 2024] - client: 127.0.0.1:45152, file:Practical2.zip, 
+[Wed Oct  9 13:16:15 2024] - client: 127.0.0.1:45156, file:wallhaven-2yvyz9.png, 
+[Wed Oct  9 13:16:18 2024] - client: 127.0.0.1:45170, file:file_2.bin, 
+[Wed Oct  9 13:16:26 2024] - client: 127.0.0.1:33242, file:Practical2.zip, 
+[Wed Oct  9 13:16:32 2024] - client: 127.0.0.1:52892, file:file_1.bin, 
+[Wed Oct  9 16:06:57 2024] - client: 127.0.0.1:55086, file:Practical2.zip, 
+[Wed Oct  9 16:06:59 2024] - client: 127.0.0.1:55088, file:Practical2.zip, 
+[Wed Oct  9 16:19:04 2024] - client: 127.0.0.1:58216, file:Practical2.zip, 
+[Wed Oct  9 16:23:44 2024] - client: 127.0.0.1:58288, file:Practical2.zip, 
+[Wed Oct  9 16:42:44 2024] - client: 127.0.0.1:50916, file:Practical2.zip, 
+[Wed Oct  9 16:42:46 2024] - client: 127.0.0.1:50928, file:Practical2.zip, 
+[Wed Oct  9 16:42:52 2024] - client: 127.0.0.1:33900, file:file_2.bin, 
+[Wed Oct  9 17:16:22 2024] - client: 127.0.0.1:54404, file:Practical2.zip, 
+[Wed Oct  9 17:16:27 2024] - client: 127.0.0.1:54418, file:Practical2.zip, 
+[Wed Oct  9 17:16:30 2024] - client: 127.0.0.1:36834, file:Practical2.zip, 
+[Wed Oct  9 17:16:35 2024] - client: 127.0.0.1:36840, file:Practical2.zip, 
+[Wed Oct  9 17:16:37 2024] - client: 127.0.0.1:36848, file:Practical2.zip, 
+[Wed Oct  9 17:16:40 2024] - client: 127.0.0.1:53534, file:file_3.bin, 
+[Wed Oct  9 17:16:47 2024] - client: 127.0.0.1:53560, file:wallhaven-2yvyz9.png, 
+[Wed Oct  9 17:16:55 2024] - client: 127.0.0.1:48346, file:Practical2.zip, 
+[Wed Oct  9 17:16:57 2024] - client: 127.0.0.1:48360, file:Practical2.zip, 
+[Wed Oct  9 17:17:37 2024] - client: 127.0.0.1:58168, file:file_3.bin, 
+[Wed Oct  9 17:17:44 2024] - client: 127.0.0.1:51444, file:file_3.bin, 
+[Wed Oct  9 17:17:52 2024] - client: 127.0.0.1:34666, file:file_3.bin, 
+[Wed Oct  9 19:02:44 2024] - Client: 127.0.0.1:38058, File: Practical2.zip, Status: File sent successfully
+[Wed Oct  9 19:02:46 2024] - Client: 127.0.0.1:38074, File: Practical2.zip, Status: File sent successfully
+[Wed Oct  9 19:02:48 2024] - Client: 127.0.0.1:38084, File: Practical2.zip, Status: File sent successfully
+[Wed Oct  9 19:02:51 2024] - Client: 127.0.0.1:32936, File: Practical2.zip, Status: File sent successfully
+[Wed Oct  9 19:02:56 2024] - Client: 127.0.0.1:32950, File: Practical2.zip, Status: File sent successfully
+[Wed Oct  9 19:03:51 2024] - Client: 127.0.0.1:32958, File: Practical2.zip, Status: File sent successfully
+[Thu Oct 10 09:36:30 2024] - client: 127.0.0.1:38334, file:Practical2.zip, 
+[Thu Oct 10 09:36:48 2024] - client: 127.0.0.1:38350, file:Practical2.zip, 
+[Thu Oct 10 09:36:51 2024] - client: 127.0.0.1:51082, file:file_3.bin, 
+[Thu Oct 10 09:37:21 2024] - client: 127.0.0.1:58674, file:Practical2.zip, 
+[Thu Oct 10 09:37:29 2024] - client: 127.0.0.1:55448, file:Practical2.zip, 
+[Thu Oct 10 09:37:31 2024] - client: 127.0.0.1:55462, file:Practical2.zip, 
+[Thu Oct 10 09:37:42 2024] - client: 127.0.0.1:45484, file:Practical2.zip, 
+[Thu Oct 10 09:37:47 2024] - client: 127.0.0.1:38158, file:Practical2.zip, 
+[Thu Oct 10 09:38:13 2024] - client: 127.0.0.1:55478, file:Practical2.zip, 
+[Thu Oct 10 09:38:15 2024] - client: 127.0.0.1:38168, file:Practical2.zip, 
+[Thu Oct 10 09:38:18 2024] - client: 127.0.0.1:45456, file:Practical2.zip, 
+[Thu Oct 10 09:39:38 2024] - client: 127.0.0.1:55410, file:texts_17.text, 
+[Thu Oct 10 11:09:02 2024] - client: 127.0.0.1:42966, file:No file transferred, 
+[Thu Oct 10 11:09:08 2024] - client: 127.0.0.1:42980, file:No file transferred, 
+[Thu Oct 10 11:09:21 2024] - client: 127.0.0.1:38312, file:No file transferred, 
+[Thu Oct 10 12:28:36 2024] - client: 127.0.0.1:47884, file:No file transferred, 
+[Thu Oct 10 12:28:39 2024] - client: 127.0.0.1:47896, file:No file transferred, 
+[Thu Oct 10 12:28:42 2024] - client: 127.0.0.1:47908, file:No file transferred, 
+[Thu Oct 10 12:28:55 2024] - client: 127.0.0.1:33618, file:No file transferred, 
+[Thu Oct 10 17:50:24 2024] - client: 127.0.0.1:39328, file:No file transferred, 
+[Thu Oct 10 17:53:34 2024] - client: 127.0.0.1:45880, file:No file transferred, 
+[Thu Oct 10 17:53:36 2024] - client: 127.0.0.1:45884, file:No file transferred, 
+[Thu Oct 10 17:53:46 2024] - client: 127.0.0.1:47560, file:No file transferred, 
+[Thu Oct 10 18:14:42 2024] - client: 127.0.0.1:60808, file:test_12.text
+[Thu Oct 10 18:14:52 2024] - client: 127.0.0.1:54928, file:test_11.text
+[Thu Oct 10 18:15:53 2024] - client: 127.0.0.1:34976, file:test_13.text
+[Thu Oct 10 22:15:14 2024] - client: 127.0.0.1:49290, file:test_12.text
+[Sat Oct 12 11:17:47 2024] - client: 127.0.0.1:47844, file:wallhaven-2yvyz9.png
+[Sat Oct 12 18:32:33 2024] - client: 127.0.0.1:38800, file:test_12.text
+[Sat Oct 12 18:32:44 2024] - client: 127.0.0.1:38750, file:test_12.text
+[Sat Oct 12 18:32:54 2024] - client: 127.0.0.1:52750, file:test_12.text
+[Sat Oct 12 18:33:24 2024] - client: 127.0.0.1:52740, file:test_12.text
+[Sun Oct 13 11:55:46 2024] - client: 127.0.0.1:59326, file:No file transferred
+[Sun Oct 13 11:58:24 2024] - client: 127.0.0.1:58508, file:No file transferred
+[Sun Oct 13 12:02:27 2024] - client: 127.0.0.1:51614, file:wallhaven-2yvyz9.png
+[Sun Oct 13 12:10:23 2024] - client: 127.0.0.1:46408, file:texts_17.text
+[Sun Oct 13 12:12:13 2024] - client: 127.0.0.1:34582, file:test_1.text
+[Sun Oct 13 12:12:31 2024] - client: 127.0.0.1:43502, file:test_17.text
+[Sun Oct 13 12:12:36 2024] - client: 127.0.0.1:46706, file:test_2.text
+[Sun Oct 13 12:12:42 2024] - client: 127.0.0.1:40446, file:test_10.text
+[Sun Oct 13 12:16:29 2024] - client: 127.0.0.1:38266, file:test_12.text
+[Sun Oct 13 12:16:54 2024] - client: 127.0.0.1:49336, file:test_1.text
+[Sun Oct 13 12:16:57 2024] - client: 127.0.0.1:50282, file:test_1.text
+[Sun Oct 13 12:17:05 2024] - client: 127.0.0.1:44452, file:test_1.text
+[Sun Oct 13 12:18:19 2024] - client: 127.0.0.1:55122, file:texts_17.text
+[Sun Oct 13 12:19:29 2024] - client: 127.0.0.1:48658, file:test_1.text
+[Sun Oct 13 12:19:35 2024] - client: 127.0.0.1:57794, file:texts_17.text
+[Sun Oct 13 12:22:24 2024] - client: 127.0.0.1:43294, file:texts_17.text
+[Sun Oct 13 12:24:26 2024] - client: 127.0.0.1:58516, file:texts_17.text
+[Sun Oct 13 12:24:32 2024] - client: 127.0.0.1:44944, file:test_17.text
+[Sun Oct 13 12:37:17 2024] - client: 127.0.0.1:34558, file:myfile.txt
+[Sun Oct 13 12:38:15 2024] - client: 127.0.0.1:38646, file:wallhaven-2yvyz9.png
+[Sun Oct 13 12:50:06 2024] - client: 127.0.0.1:51330, file:test_5.text
+[Sun Oct 13 13:00:35 2024] - client: 127.0.0.1:48356, file:test_17.text
+[Sun Oct 13 13:00:52 2024] - client: 127.0.0.1:48702, file:wallhaven-2yvyz9.png
+[Sun Oct 13 13:01:30 2024] - client: 127.0.0.1:47140, file:texts_7.text
+[Sun Oct 13 13:15:32 2024] - client: 127.0.0.1:47772, file:texts_16.text
+[Sun Oct 13 13:16:06 2024] - client: 127.0.0.1:47498, file:wallhaven-2yvyz9.png
+[Sun Oct 13 14:26:20 2024] - client: 127.0.0.1:58658, file:test_17.text
+[Sun Oct 13 14:26:38 2024] - client: 127.0.0.1:35042, file:wallhaven-2yvyz9.png
+[Sun Oct 13 14:26:58 2024] - client: 127.0.0.1:48048, file:texts_19.text
+[Sun Oct 13 14:28:30 2024] - client: 127.0.0.1:49410, file:test_20.text
+[Sun Oct 13 14:31:26 2024] - client: 127.0.0.1:59896, file:texts_7.text
+[Sun Oct 13 14:32:47 2024] - client: 127.0.0.1:52048, file:No file transferred
+[Sun Oct 13 14:35:08 2024] - client: 127.0.0.1:50068, file:test_20.text
+[Sun Oct 13 14:55:00 2024] - client: 127.0.0.1:53888, file:wallhaven-2yvyz9.png
+[Sun Oct 13 16:56:48 2024] - client: 127.0.0.1:52996, file:test_12.text
+[Sun Oct 13 16:56:57 2024] - client: 127.0.0.1:35984, file:cli0250.c
+[Sun Oct 13 16:57:04 2024] - client: 127.0.0.1:43380, file:test_12.text
+[Sun Oct 13 16:57:16 2024] - client: 127.0.0.1:47756, file:Practical2.zip
