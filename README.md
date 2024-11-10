@@ -3,7 +3,7 @@
 <h3> Steps to install server and client </h3>
 
 in server,
-   1. add '<p style="color:blue">srv0250.c</p>' file and create 'log_serv0250.txt' in same directory in the server.
+   1. add 'srv0250.c' file and create 'log_serv0250.txt' in same directory in the server.
    2. Create a folder directory called 'server_files' in the server to store server media.
    3. edit file location to 'server_files' in line 117, 136, 139 in srv0250.c.
    	if(list_files("/path/to/the/directory/server_files", clisock_fd) == 0){
