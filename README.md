@@ -13,7 +13,7 @@ in server,
    4. open terminal in same directory as srv0250.c.
    5. in terminal, execute "gcc -o server srv0250.c".
    6. then execute "./server".
-   7. Now, server is online.
+   7. Now, server is online
    
    
 in client,
